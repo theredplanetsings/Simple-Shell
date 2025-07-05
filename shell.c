@@ -6,7 +6,7 @@
 #include <ctype.h>
 #include "parser.h"
 /**
- * This file implements a simple shell in C, akin to the shells found in modern
+ * Simple shell implementation in C, akin to the shells found in modern
  * computers. It supports basic command execution, background tasks,
  * and a history feature. The shell keeps track of the last 10 commands and
  * allows users to re-execute them. It also handles some signals and
