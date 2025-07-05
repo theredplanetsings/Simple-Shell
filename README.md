@@ -1,6 +1,6 @@
 # Simple Shell
 
-This project implements a simple shell program in C, similar to that found in modern computers. The shell reads user commands, parses them, and executes the corresponding programs. The project consists of three main files: `shell.c`, `parser.c`, and `parser.h`.
+Implementation of a simple shell program in C, similar to that found in modern computers. The shell reads user commands, parses them, and executes the corresponding programs. The project consists of three main files: `shell.c`, `parser.c`, and `parser.h`.
 
 ## Files
 
