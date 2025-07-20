@@ -6,7 +6,7 @@ Implementation of a simple shell program in C, similar to that found in modern c
 
 ### `shell.c`
 This file contains the main function of the shell program. It handles the following tasks:
-- Initializing the shell environment.
+- Initialising the shell environment.
 - Reading user input.
 - Using the parser to interpret commands.
 - Executing the parsed commands.
